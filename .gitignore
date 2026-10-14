@@ -1,0 +1,10 @@
+# Captura original del logo (referencia; el sitio usa los vectores de assets/)
+Captura de pantalla*.png
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+node_modules/
