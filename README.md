@@ -1,4 +1,4 @@
-# CAI · Centro de Asesorías Integrales del Carmen
+# CAI · Centro de Asesorías Integrales
 
 Landing page del instituto de inglés CAI: trayectoria, servicios, testimonios de alumnos, programas, preguntas frecuentes y adelanto de la futura plataforma de cursos.
 
